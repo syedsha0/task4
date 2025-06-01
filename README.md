@@ -1,8 +1,8 @@
- #Cyber Security Internship – Task 4: Firewall Setup and Testing (Windows)
+#Cyber Security Internship – Task 4: Firewall Setup and Testing (Windows)
 # Objective
 The main goal of this task was to learn how to set up and test firewall rules using Windows Defender Firewall. Specifically, the task focused on blocking traffic through Telnet (port 23) and checking whether the block was successfully applied.
 
-🖥#System Used
+#System Used
 Here’s the setup used for this task:
 
 Operating System: Windows 10
